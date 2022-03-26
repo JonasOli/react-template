@@ -5,3 +5,4 @@
 - basic folder architecture
 - global style with resets
 - styled components config
+- typescript config
